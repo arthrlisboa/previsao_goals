@@ -1,0 +1,451 @@
+season,place,team,played,won,draw,loss,goals,goals_taken,founded,stadium,city,state,region
+1999,20,Ponte Preta,46,9,19,15,63.0,75.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2000,5,Cruzeiro,38,16,5,14,72.0,59.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2000,23,Fortaleza,47,9,14,18,58.0,76.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2000,19,Coritiba,43,14,7,18,49.0,59.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2001,2,Santos,48,28,11,7,92.0,61.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2001,1,Cruzeiro,46,32,6,11,100.0,48.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2002,17,Flamengo,45,10,16,18,50.0,51.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2002,9,Botafogo,40,16,5,16,52.0,52.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2002,2,Athletico Paranaense,45,27,11,11,98.0,59.0,1924,Arena da Baixada,Curitiba,Parana,South
+2002,6,Vasco,34,13,14,8,54.0,50.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2002,12,Coritiba,45,14,17,12,49.0,48.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2002,17,Vasco,44,12,14,18,57.0,66.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2002,19,São Caetano,33,8,12,20,37.0,54.0,1989,Anacleto Campanella,Sao Caetano do Sul,Sao Paulo,Southeast
+2002,4,Santos,38,18,9,9,54.0,33.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2002,11,Figueirense,48,16,17,16,61.0,59.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2002,13,Guarani,50,17,6,20,66.0,72.0,1911,Brinco de Ouro,Campinas,Sao Paulo,Southeast
+2003,4,Palmeiras,42,17,6,11,81.0,63.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2003,5,Coritiba,43,23,10,16,69.0,58.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2003,9,Corinthians,35,12,7,14,41.0,46.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2003,16,Vitória,43,18,9,17,48.0,65.0,1899,Barradao,Salvador,Bahia,Northeast
+2003,15,Paraná,45,13,12,22,51.0,73.0,1989,Vila Capanema,Curitiba,Parana,South
+2003,6,Athletico Paranaense,41,19,8,16,75.0,65.0,1924,Arena da Baixada,Curitiba,Parana,South
+2003,7,Paraná,38,14,12,14,60.0,52.0,1989,Vila Capanema,Curitiba,Parana,South
+2003,21,Paysandu,42,12,6,26,64.0,90.0,1914,Mangueirao,Belem,Para,North
+2003,22,Paysandu,49,11,8,17,73.0,73.0,1914,Mangueirao,Belem,Para,North
+2003,24,Bahia,44,13,8,26,59.0,91.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2003,20,Botafogo,47,9,16,16,65.0,71.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2003,16,Coritiba,44,10,9,15,52.164922305395066,59.57684175491977,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2003,12,Athletico Paranaense,41,16,11,17,67.0,68.0,1924,Arena da Baixada,Curitiba,Parana,South
+2003,1,São Paulo,43,21,2,5,53.0,22.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2003,8,Flamengo,46,15,10,15,68.0,75.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2003,7,Athletico Paranaense,48,16,10,17,63.72853980910008,62.75246313660125,1924,Major Antonio Couto Pereira,Curitiba,Parana,South
+2003,6,Grêmio,38,17,8,16,44.0,38.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2003,19,Fluminense,43,14,10,21,51.0,79.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2003,8,Goiás,36,18,7,9,65.0,49.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2003,14,Paysandu,42,13,13,15,54.0,78.0,1914,Mangueirao,Belem,Para,North
+2003,13,Fortaleza,44,17,10,19,59.0,68.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2003,13,Athletico Paranaense,35,14,9,17,43.0,54.0,1924,Arena da Baixada,Curitiba,Parana,South
+2003,16,Palmeiras,38,11,7,15,58.0,68.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2003,15,Flamengo,45,14,13,17,58.0,61.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2003,9,Goiás,47,18,10,18,78.0,67.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2003,18,Juventude,44,11,10,18,55.0,73.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2004,23,Vitória,47,11,10,18,67.0,88.0,1899,Barradao,Salvador,Bahia,Northeast
+2004,2,Internacional,38,21,7,10,54.0,35.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2004,11,Figueirense,48,13,8,13,56.0,58.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2004,24,Grêmio,43,10,13,25,62.0,81.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2004,20,América-RN,36,5,2,27,21.0,79.0,1915,Arena America,Natal,Rio Grande do Norte,Northeast
+2004,22,Guarani,44,4,15,19,43.0,50.0,1911,Brinco de Ouro,Campinas,Sao Paulo,Southeast
+2004,10,Paraná,44,17,8,14,83.0,75.0,1989,Vila Capanema,Curitiba,Parana,South
+2004,5,Fluminense,42,16,11,11,79.0,67.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2004,5,Corinthians,46,19,15,13,54.0,52.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2004,5,Flamengo,37,16,7,6,68.0,47.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2004,7,Internacional,47,17,6,18,59.0,57.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2004,2,Internacional,42,21,9,12,69.0,49.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2004,3,São Paulo,46,21,10,15,78.0,68.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2004,21,Criciúma,41,16,10,21,61.0,76.0,1947,Majestoso,Criciuma,Santa Catarina,South
+2004,3,Grêmio,37,20,9,10,60.0,46.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2004,22,Brasiliense,39,10,11,21,48.0,65.0,2000,Boca do Jacare,Taguatinga,Distrito Federal,Central
+2004,9,Fluminense,43,19,11,13,62.0,66.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2004,1,São Paulo,33,21,10,4,65.0,29.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2004,4,São Caetano,45,18,13,13,49.0,39.0,1989,Anacleto Campanella,Sao Caetano do Sul,Sao Paulo,Southeast
+2004,18,Fortaleza,38,7,16,14,36.0,60.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2005,8,Goiás,39,12,13,11,59.0,46.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2005,18,Juventude,37,8,7,17,40.0,64.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2005,10,Ponte Preta,42,21,7,21,41.0,73.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2005,15,Fluminense,39,13,11,16,45.0,54.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2005,13,Figueirense,36,12,10,14,51.0,56.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2005,17,São Caetano,44,14,11,20,52.0,60.0,1989,Anacleto Campanella,Sao Caetano do Sul,Sao Paulo,Southeast
+2005,7,Botafogo,38,15,7,12,53.0,41.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2005,3,Goiás,43,20,9,13,67.0,52.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2005,21,Grêmio,46,13,13,21,54.0,67.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2005,18,Vasco,35,11,8,16,55.0,73.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2005,18,Santo André,41,9,7,16,46.0,65.0,1975,Estadio Bruno Jose Daniel,Santo Andre,Sao Paulo,Southeast
+2005,1,Flamengo,44,22,9,9,72.98529717998645,45.46741011150368,1895,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2005,3,São Paulo,43,21,8,15,72.0,39.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2006,20,Coritiba,42,15,9,21,52.41756976156637,67.19068677488667,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2006,12,Botafogo,35,13,8,13,52.0,50.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2006,7,Figueirense,35,14,11,9,56.0,42.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2006,13,Athletico Paranaense,41,11,8,12,62.0,59.0,1924,Arena da Baixada,Curitiba,Parana,South
+2006,16,Vasco,48,13,12,21,63.0,68.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2006,6,Goiás,46,23,7,13,81.0,66.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2006,1,Santos,44,26,10,9,100.0,57.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2006,13,Cruzeiro,48,13,8,20,72.0,81.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2006,18,São Caetano,43,22,7,15,64.0,50.0,1989,Anacleto Campanella,Sao Caetano do Sul,Sao Paulo,Southeast
+2006,14,Juventude,36,13,7,17,46.0,52.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2006,11,Flamengo,37,15,5,17,44.0,47.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2006,11,Sport,36,10,11,16,47.0,45.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2006,14,Juventude,41,20,14,18,67.0,71.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2006,8,Cruzeiro,41,15,8,16,73.0,72.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2006,15,Santos,35,10,8,11,46.0,52.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2006,14,Criciúma,43,17,9,19,57.0,68.0,1947,Majestoso,Criciuma,Santa Catarina,South
+2006,17,Corinthians,37,8,10,12,40.0,48.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2006,4,Palmeiras,47,22,12,11,74.0,44.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2006,15,Corinthians,44,16,13,18,60.0,62.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2006,4,Fluminense,38,18,12,8,55.0,42.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2006,10,Cruzeiro,39,12,13,15,53.0,39.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2006,8,Internacional,44,22,6,17,67.0,61.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2007,7,Atlético Mineiro,37,17,8,15,56.0,57.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2007,16,Goiás,34,10,5,16,49.0,59.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2007,14,Fluminense,41,14,8,12,47.0,44.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2007,11,São Paulo,39,17,7,17,78.0,61.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2007,20,Ipatinga,39,9,8,24,34.0,67.0,1998,Ipatingao,Ipatinga,Minas Gerais,Southeast
+2007,10,Santos,44,14,9,17,65.0,68.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2007,2,Cruzeiro,36,19,11,7,49.0,36.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2007,12,Vasco,41,16,10,17,77.0,84.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2007,18,Ponte Preta,36,15,5,20,61.0,83.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2007,11,Vasco,36,10,16,7,40.0,43.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2007,6,Atlético Mineiro,45,18,12,11,75.0,60.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2007,8,Grêmio,39,16,8,16,65.0,45.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2007,14,Athletico Paranaense,38,10,12,14,41.0,46.0,1924,Arena da Baixada,Curitiba,Parana,South
+2007,1,Corinthians,41,24,7,12,52.0,34.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2007,12,Atlético Mineiro,34,13,13,13,49.0,60.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2007,17,Ponte Preta,40,10,7,15,45.0,63.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2007,9,Botafogo,36,12,3,12,53.0,48.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2007,11,Internacional,35,13,5,14,47.0,42.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2007,6,Internacional,40,16,7,11,44.0,47.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2007,15,Náutico,38,13,9,16,65.0,60.0,1901,Aflitos,Recife,Pernambuco,Northeast
+2007,15,Avaí,33,12,10,14,48.0,56.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2007,12,Athletico Paranaense,40,11,15,13,47.0,49.0,1924,Arena da Baixada,Curitiba,Parana,South
+2007,18,Guarani,36,9,8,17,33.0,52.0,1911,Brinco de Ouro,Campinas,Sao Paulo,Southeast
+2007,5,Internacional,39,13,12,9,56.0,42.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2007,9,Coritiba,38,12,11,13,56.0,46.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2008,5,Paraná,38,17,10,15,53.0,47.0,1989,Vila Capanema,Curitiba,Parana,South
+2008,7,Palmeiras,37,17,9,9,48.0,45.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2008,15,Atlético Mineiro,38,12,4,22,51.0,61.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2008,17,Figueirense,39,10,11,17,50.0,71.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2008,13,Atlético Mineiro,34,13,4,18,51.0,63.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2008,19,Atlético Mineiro,49,14,19,17,58.0,63.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2008,20,Sport,38,9,11,20,48.0,71.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2008,16,Atlético Goianiense,36,11,8,17,51.0,58.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2008,16,Cruzeiro,38,9,8,19,52.0,50.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2008,9,Botafogo,38,12,10,11,62.0,60.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2008,20,Grêmio Barueri,38,9,9,21,37.0,65.0,1932,Ilha do Retiro,Recife,Pernambuco,Northeast
+2008,19,Ceará,40,13,9,16,43.385043513184655,61.22744094788038,1917,Castelao,Fortaleza,Ceara,Northeast
+2008,1,Cruzeiro,34,22,3,11,75.0,35.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2008,19,Paraná,35,10,9,19,40.0,60.0,1989,Vila Capanema,Curitiba,Parana,South
+2008,3,Flamengo,39,18,9,8,59.0,47.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2008,7,Figueirense,39,16,11,11,44.0,44.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2008,3,São Paulo,41,14,12,10,51.0,41.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2009,13,Atlético Goianiense,34,11,7,13,45.0,42.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2009,12,Santos,37,7,12,15,55.0,56.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2009,4,Flamengo,41,11,13,7,60.0,42.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2009,5,Palmeiras,37,16,9,13,57.0,44.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2009,9,Goiás,37,12,7,15,63.0,65.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2009,14,Bahia,36,12,17,13,43.0,45.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2009,15,Botafogo,39,10,11,16,52.0,57.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2009,20,Coritiba,37,10,6,23,37.18913768322966,69.13079997104205,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2009,20,Criciúma,38,8,13,18,28.0,55.0,1947,Majestoso,Criciuma,Santa Catarina,South
+2009,19,América Mineiro,36,9,13,15,50.0,68.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2009,2,Santos,38,19,6,10,57.0,48.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2009,13,Vitória,38,12,9,12,47.0,58.0,1899,Barradao,Salvador,Bahia,Northeast
+2009,3,Grêmio,39,19,9,8,53.0,29.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2009,9,Cruzeiro,39,16,3,16,44.0,51.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2009,19,Goiás,34,10,8,20,42.0,68.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2009,17,Coritiba,39,13,8,15,49.0,58.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2009,12,Ceará,36,9,17,8,36.0,44.0,1914,Arena Castelao,Fortaleza,Ceara,Northeast
+2009,4,Cruzeiro,37,17,8,12,60.0,52.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2009,2,Grêmio,37,23,7,10,54.0,35.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2009,10,Santos,40,15,9,13,56.0,56.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2009,14,Ponte Preta,39,9,12,13,36.0,42.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2009,10,Vitória,39,14,6,13,47.0,43.0,1899,Barradao,Salvador,Bahia,Northeast
+2009,10,Vasco,39,13,9,13,52.0,49.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2009,4,Palmeiras,36,23,8,13,56.0,46.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2010,20,Figueirense,40,7,9,22,38.0,73.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2010,16,Náutico,38,11,9,13,43.0,54.0,1901,Aflitos,Recife,Pernambuco,Northeast
+2010,2,Atlético Mineiro,33,23,4,10,66.0,45.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2010,10,Palmeiras,38,12,13,15,42.0,41.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2010,1,Cruzeiro,38,27,5,9,64.0,37.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2010,9,São Paulo,36,17,7,12,50.0,55.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2010,10,Corinthians,33,15,12,14,50.0,53.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2010,11,Grêmio Barueri,38,13,13,15,59.0,52.0,1932,Ilha do Retiro,Recife,Pernambuco,Northeast
+2010,18,Palmeiras,42,8,6,23,37.0,55.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2010,18,Vasco,39,6,8,17,50.0,60.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2010,8,Botafogo,37,13,6,15,51.28817606703353,50.19823102562145,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2010,19,Coritiba,38,9,9,21,34.94120145848365,66.72669339725599,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2010,17,Vitória,35,10,13,11,40.0,50.0,1899,Barradao,Salvador,Bahia,Northeast
+2010,13,Coritiba,38,12,8,18,50.0,61.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2010,14,Sport,38,15,8,17,57.0,55.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2010,20,Avaí,41,8,11,20,45.0,73.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2011,11,Flamengo,40,7,14,12,36.0,45.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,1,Flamengo,38,17,7,9,63.0,44.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,3,Internacional,38,19,2,8,53.0,41.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2011,9,São Paulo,38,13,6,13,38.0,39.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2011,6,Botafogo,37,13,17,6,54.0,42.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2011,16,Fluminense,38,11,14,10,50.0,57.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,8,Atlético Mineiro,37,16,14,10,49.0,37.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2011,1,Fluminense,36,19,7,6,62.10506704499414,33.82667523338273,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,12,Náutico,39,12,7,18,45.0,49.0,1901,Aflitos,Recife,Pernambuco,Northeast
+2011,6,Avaí,35,18,9,10,63.0,53.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2011,2,Grêmio,37,17,9,12,42.0,37.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2011,10,Internacional,36,11,11,10,48.0,39.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2011,4,Grêmio,36,16,13,6,69.0,42.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2011,12,Grêmio,34,15,5,15,47.0,54.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2011,2,Internacional,40,17,9,12,63.0,38.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2011,16,Athletico Paranaense,35,7,14,17,41.26007869921091,51.45507110426149,1924,Major Antonio Couto Pereira,Curitiba,Parana,South
+2011,2,Vasco,35,19,9,7,53.0,41.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,5,Vasco,36,15,10,14,46.0,43.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2011,19,Portuguesa,39,6,7,21,44.0,70.0,1920,Estadio do Caninde,Sao Paulo,Sao Paulo,Southeast
+2011,3,Cruzeiro,42,19,2,8,59.0,43.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2011,19,Ponte Preta,39,7,11,20,32.0,54.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2012,15,Coritiba,35,9,9,19,34.0,47.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2012,14,Criciúma,37,14,8,14,47.0,64.0,1947,Majestoso,Criciuma,Santa Catarina,South
+2012,6,Goiás,38,16,5,9,50.0,41.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2012,14,Flamengo,34,7,20,13,45.0,42.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2012,12,Goiás,37,11,7,17,37.0,45.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2012,3,Corinthians,39,18,8,6,63.0,41.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2012,7,Internacional,34,14,9,9,45.0,39.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2012,11,Athletico Paranaense,39,12,4,16,46.0,42.0,1924,Arena da Baixada,Curitiba,Parana,South
+2012,8,Coritiba,37,15,6,8,57.0,38.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2012,7,Botafogo,35,15,12,13,61.0,48.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2012,18,Ceará,35,13,10,17,48.0,61.0,1914,Arena Castelao,Fortaleza,Ceara,Northeast
+2012,5,Vitória,38,12,7,8,58.0,51.0,1899,Barradao,Salvador,Bahia,Northeast
+2012,8,Santos,39,13,12,12,49.0,42.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2012,17,Athletico Paranaense,36,7,7,16,39.0,52.0,1924,Arena da Baixada,Curitiba,Parana,South
+2012,7,Grêmio,40,14,8,9,35.0,24.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2012,8,Santos,37,12,11,15,63.0,50.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2012,3,Fluminense,39,15,2,14,62.0,50.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2012,3,Athletico Paranaense,37,16,8,12,63.0,52.0,1924,Arena da Baixada,Curitiba,Parana,South
+2012,19,Botafogo,39,8,6,22,31.0,47.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2012,10,Athletico Paranaense,38,15,8,16,47.0,49.0,1924,Arena da Baixada,Curitiba,Parana,South
+2012,6,Corinthians,37,16,10,11,46.0,38.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2012,10,Corinthians,38,7,19,10,28.0,19.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2013,10,Flamengo,39,13,9,14,45.0,48.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2013,7,Santos,41,15,13,10,49.0,35.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2013,20,Joinville,37,7,8,21,22.0,46.0,1976,Arena Joinville,Joinville,Santa Catarina,South
+2013,19,Goiás,39,6,8,19,41.0,49.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2013,16,Athletico Paranaense,38,13,16,16,46.58903907558306,51.938856521347134,1924,Major Antonio Couto Pereira,Curitiba,Parana,South
+2013,10,Santos,34,9,12,15,47.0,40.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2013,15,Coritiba,34,11,9,14,39.0,43.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2013,17,Sport,37,8,13,14,38.0,53.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2013,1,Fluminense,33,20,9,7,63.0,35.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2013,6,Botafogo,39,17,12,13,55.8163849702114,46.07147260303918,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2013,11,Coritiba,40,11,14,12,46.0,45.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2013,17,Vitória,37,8,8,19,33.0,52.0,1899,Barradao,Salvador,Bahia,Northeast
+2013,3,Flamengo,38,20,11,5,50.0,34.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2013,11,Palmeiras,40,12,13,11,40.0,37.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2013,9,Grêmio,32,12,8,11,37.0,46.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2013,2,Atlético Mineiro,35,18,13,4,62.0,36.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2013,5,Athletico Paranaense,37,14,7,11,44.0,46.0,1924,Arena da Baixada,Curitiba,Parana,South
+2013,8,Cruzeiro,34,15,10,13,42.0,33.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2014,15,Chapecoense,42,11,6,19,38.0,40.0,1973,Arena Conda,Chapeco,Santa Catarina,South
+2014,4,Grêmio,37,19,6,12,57.0,34.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2014,4,São Paulo,35,20,6,14,60.0,37.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2014,3,Santos,38,16,11,10,39.0,34.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2014,18,Bahia,35,5,8,19,30.0,44.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2014,11,Sport,40,16,10,14,36.0,43.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2014,12,Flamengo,35,16,4,20,43.0,52.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2014,15,Fluminense,39,12,11,15,43.0,47.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2014,2,Flamengo,40,20,7,7,58.0,26.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2014,17,Portuguesa,40,10,10,12,50.0,45.0,1920,Estadio do Caninde,Sao Paulo,Sao Paulo,Southeast
+2014,12,Bahia,37,9,6,12,39.0,44.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2014,6,São Paulo,36,18,11,9,54.0,46.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2014,4,Botafogo,36,15,10,13,55.0,45.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2014,4,Corinthians,40,18,12,6,52.0,28.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2014,9,Palmeiras,36,14,7,13,61.0,50.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2014,9,Santos,37,13,10,14,47.0,35.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2014,8,Athletico Paranaense,37,15,8,15,41.0,42.0,1924,Arena da Baixada,Curitiba,Parana,South
+2014,7,Vasco,40,13,10,15,39.0,46.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2015,17,Internacional,36,11,10,15,36.0,37.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2015,15,Bahia,38,6,12,10,36.0,38.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2015,11,Ponte Preta,36,10,13,14,40.0,41.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2015,2,São Paulo,38,24,11,10,61.0,42.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2015,5,Atlético Mineiro,37,18,8,11,49.0,39.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2015,20,Náutico,37,6,6,30,23.0,82.0,1901,Aflitos,Recife,Pernambuco,Northeast
+2015,11,Bahia,38,14,10,11,39.0,40.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2015,14,Chapecoense,39,11,8,16,32.0,42.0,1973,Arena Conda,Chapeco,Santa Catarina,South
+2015,7,Athletico Paranaense,40,17,13,10,55.0,35.0,1924,Arena da Baixada,Curitiba,Parana,South
+2015,16,Figueirense,38,11,5,15,34.0,52.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2015,1,Fluminense,37,25,11,4,62.0,35.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2015,1,Corinthians,38,29,8,5,67.0,30.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2015,13,Fluminense,38,12,12,12,43.0,42.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2015,14,Coritiba,38,8,11,18,43.0,46.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2015,12,Bahia,37,12,8,12,49.0,48.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2015,10,São Paulo,37,14,11,13,47.0,36.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2015,20,Avaí,37,1,9,23,18.0,63.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2016,11,Chapecoense,39,14,14,8,52.0,60.0,1973,Arena Conda,Chapeco,Santa Catarina,South
+2016,5,Cruzeiro,32,17,14,10,50.0,40.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2016,9,Fortaleza,39,17,9,14,46.0,49.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2016,4,Atlético Mineiro,39,16,10,6,62.0,51.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2016,4,São Paulo,37,14,5,11,57.0,46.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2016,14,Fluminense,34,15,14,13,50.0,49.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2016,5,Corinthians,32,18,10,11,50.006724330643806,39.55378080117339,1910,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2016,13,Internacional,40,13,14,12,50.0,52.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2016,1,Palmeiras,40,25,9,4,60.0,31.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2016,1,Corinthians,37,19,5,6,48.0,27.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2016,10,Santos,39,12,13,11,35.0,40.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2016,9,Atlético Mineiro,36,12,14,11,49.0,49.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2016,13,São Paulo,37,8,8,13,50.0,48.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2016,10,Botafogo,36,13,9,12,50.0,43.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2016,7,Corinthians,36,15,7,17,48.0,39.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2016,17,Coritiba,40,10,7,18,41.0,54.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2016,16,Palmeiras,35,7,5,21,34.0,57.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2016,1,Flamengo,37,20,7,8,64.0,47.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2016,20,Paraná,37,3,10,23,21.0,57.0,1989,Vila Capanema,Curitiba,Parana,South
+2016,18,Figueirense,39,10,11,16,29.0,49.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2016,8,Ponte Preta,39,15,8,13,47.0,55.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2016,7,Santos,36,14,9,10,58.0,40.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2016,4,Grêmio,41,17,11,2,48.0,27.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2017,17,Sport,38,12,6,18,35.0,57.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2017,20,Atlético Goianiense,39,10,11,19,37.0,55.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2017,14,Fluminense,34,14,8,14,40.0,43.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2017,4,Grêmio,37,16,5,14,64.0,40.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2017,16,Vasco,36,10,13,10,43.0,50.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2017,17,Bahia,39,4,17,13,30.30732541143402,48.07991855140472,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2017,19,Ponte Preta,37,13,5,22,38.0,52.0,1900,Moises Lucarelli,Campinas,Sao Paulo,Southeast
+2017,18,CSA,38,10,3,18,27.0,56.0,1913,Estadio Rei Pele,Maceio,Alagoas,Northeast
+2017,5,Corinthians,40,15,11,8,39.0,36.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2017,5,Botafogo,38,16,7,14,40.0,40.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2017,15,Ceará,39,9,10,13,33.0,38.0,1914,Arena Castelao,Fortaleza,Ceara,Northeast
+2017,9,Atlético Goianiense,39,12,16,11,32.0,34.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2017,16,Atlético Goianiense,37,10,9,20,37.56362580834048,56.63927443648765,1937,Estadio Serra Dourada,Goiania,Goias,Central
+2017,5,Fluminense,36,21,11,9,52.0,41.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2017,18,América Mineiro,37,12,10,22,31.0,43.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2017,6,Sport,41,14,12,7,49.0,34.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2017,6,Athletico Paranaense,38,17,4,18,38.0,33.0,1924,Arena da Baixada,Curitiba,Parana,South
+2017,16,Vitória,37,12,7,19,49.0,55.0,1899,Barradao,Salvador,Bahia,Northeast
+2017,6,Grêmio,40,13,15,8,55.0,42.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2017,17,Avaí,38,9,9,20,40.0,61.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2017,19,Santa Cruz,38,6,9,21,45.0,69.0,1914,Arruda,Recife,Pernambuco,Northeast
+2018,6,Atlético Mineiro,35,13,6,13,58.0,40.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2018,13,Fluminense,33,15,5,20,40.0,50.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2018,19,Sport,39,11,14,21,25.0,33.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2018,18,Vasco,40,11,5,16,32.0,53.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2018,19,Vitória,36,8,10,22,35.0,61.0,1899,Barradao,Salvador,Bahia,Northeast
+2018,16,Fortaleza,39,11,10,17,37.0,42.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2018,12,Cruzeiro,40,16,12,13,48.0,50.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2018,1,Flamengo,34,29,5,0,86.0,35.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2018,15,Sport,36,11,9,16,44.0,58.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2018,1,Palmeiras,38,25,9,3,66.0,24.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2018,2,Santos,38,24,6,7,61.0,33.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2018,13,Atlético Mineiro,38,11,4,14,46.0,46.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2018,16,Bahia,37,10,12,12,40.87136575629984,42.31936259128031,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2018,20,América Mineiro,40,8,3,24,21.0,60.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2018,15,Sport,38,14,5,21,33.0,51.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2018,8,Cruzeiro,40,14,14,10,33.0,35.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2018,13,Figueirense,38,14,6,13,35.0,46.0,1921,Estadio Orlando Scarpelli,Florianopolis,Santa Catarina,South
+2018,15,Botafogo,38,15,4,17,31.0,44.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2018,10,Red Bull Bragantino,40,15,13,13,49.0,38.0,1928,Nabi Abi Chedid,Braganca Paulista,Sao Paulo,Southeast
+2019,4,São Paulo,39,19,8,7,58.0,41.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2019,2,Internacional,38,18,3,3,60.0,35.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2019,9,Botafogo,34,11,10,15,40.0,43.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2019,13,São Paulo,37,10,15,12,32.0,39.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2019,2,Palmeiras,36,20,5,6,58.0,29.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2019,2,Internacional,38,22,13,5,56.0,34.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2019,11,América Mineiro,40,11,18,6,41.48956922992,35.68571085017618,1916,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2019,16,Vitória,34,11,10,18,49.0,56.0,1899,Barradao,Salvador,Bahia,Northeast
+2019,18,Bahia,40,13,7,17,36.0,50.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2019,14,Sport,40,13,7,16,47.0,54.0,1905,Ilha do Retiro,Recife,Pernambuco,Northeast
+2019,2,Santos,36,23,2,9,58.0,31.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2019,11,Ceará,34,13,7,17,53.0,47.0,1914,Arena Castelao,Fortaleza,Ceara,Northeast
+2019,5,São Paulo,39,14,14,9,43.0,33.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2019,12,Corinthians,40,11,12,13,45.0,43.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2019,8,Corinthians,35,15,11,12,47.37497527815515,39.56947461450329,1910,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2019,20,América Mineiro,38,6,11,23,23.39667060875138,65.6806796508007,1916,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2019,13,Atlético Goianiense,39,10,16,12,40.0,44.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2019,17,Grêmio,36,12,3,17,39.0,50.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2019,17,Vasco,37,7,10,18,35.0,56.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2020,8,Corinthians,36,18,11,8,45.0,34.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2020,1,Palmeiras,40,24,5,6,63.0,32.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2020,3,Internacional,39,16,11,7,50.0,25.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2020,3,Atlético Mineiro,38,19,10,10,62.0,45.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2020,12,Fluminense,38,15,8,16,31.0,45.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2020,18,Avaí,36,9,14,18,26.0,48.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2020,3,Grêmio,36,19,7,11,55.0,35.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2020,15,Coritiba,39,13,7,16,37.0,64.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2020,19,Atlético Goianiense,35,4,8,17,32.0,59.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2020,19,Chapecoense,38,8,11,21,29.0,51.0,1973,Arena Conda,Chapeco,Santa Catarina,South
+2020,19,Coritiba,38,6,10,18,32.0,53.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2020,16,Cuiabá,38,9,10,17,31.0,43.0,2001,Arena Pantanal,Cuiaba,Mato Grosso,Central
+2020,9,São Paulo,39,16,13,9,55.0,39.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2020,2,Palmeiras,36,19,3,16,56.0,46.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2020,3,Atlético Mineiro,37,22,6,9,53.0,29.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2020,6,São Paulo,35,17,13,8,34.0,29.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2020,6,Red Bull Bragantino,37,11,14,10,56.0,51.0,1928,Nabi Abi Chedid,Braganca Paulista,Sao Paulo,Southeast
+2020,5,Athletico Paranaense,41,17,6,11,52.0,35.0,1924,Arena da Baixada,Curitiba,Parana,South
+2020,15,Cuiabá,38,9,15,11,35.0,37.0,2001,Arena Pantanal,Cuiaba,Mato Grosso,Central
+2020,13,Corinthians,33,9,7,15,30.0,34.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2021,14,Bahia,34,13,7,19,50.0,60.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2021,7,Palmeiras,39,17,16,8,50.0,39.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2021,12,Vasco,39,6,14,17,40.0,43.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2021,17,Athletico Paranaense,35,10,11,18,39.0,47.0,1924,Arena da Baixada,Curitiba,Parana,South
+2021,20,América Mineiro,39,2,7,21,45.0,79.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2021,1,Atlético Mineiro,42,23,7,6,62.0,33.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2021,2,Flamengo,37,21,7,6,72.0,35.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2021,1,Palmeiras,33,19,11,5,69.0,21.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2021,6,Flamengo,41,15,9,13,49.0,34.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2021,11,Vitória,35,11,6,12,44.0,53.0,1899,Barradao,Salvador,Bahia,Northeast
+2021,8,Internacional,39,14,7,14,43.88373949656887,45.39837866847108,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2021,14,Chapecoense,39,10,9,17,33.0,49.0,1973,Arena Conda,Chapeco,Santa Catarina,South
+2021,19,Avaí,39,7,7,20,34.0,63.0,1923,A Ressacada,Florianopolis,Santa Catarina,South
+2021,12,Santos,38,12,10,16,46.0,42.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2021,16,Bahia,39,13,9,20,51.0,53.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2021,10,Goiás,40,13,7,16,46.0,62.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2021,18,Atlético Goianiense,36,9,12,16,39.0,59.0,1937,Estadio Antonio Accioly,Goiania,Goias,Central
+2021,4,Fortaleza,36,20,12,9,52.0,36.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2021,20,Botafogo,36,3,14,25,29.0,61.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2021,11,Bahia,39,11,14,12,43.0,41.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2022,8,Fortaleza,41,11,8,15,48.0,39.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2022,4,Fortaleza,37,13,4,14,43.0,44.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2022,17,Ceará,40,9,18,13,35.0,40.0,1914,Arena Castelao,Fortaleza,Ceara,Northeast
+2022,13,Corinthians,40,11,14,12,48.0,47.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2022,11,Botafogo,38,18,10,17,42.0,43.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2022,7,Internacional,41,16,11,12,42.0,42.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2022,6,Athletico Paranaense,39,15,11,11,45.0,51.0,1924,Arena da Baixada,Curitiba,Parana,South
+2022,17,Santos,38,10,11,18,39.0,63.0,1912,Vila Belmiro,Santos,Sao Paulo,Southeast
+2022,4,Corinthians,38,17,10,6,45.0,35.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2022,5,Corinthians,36,19,7,9,49.09275950725623,35.85288728772628,1910,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2022,14,Cruzeiro,37,7,12,13,30.0,29.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2022,18,Goiás,36,8,8,20,40.0,62.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2022,9,Vasco,41,15,10,16,44.0,54.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2022,9,Internacional,36,14,5,12,45.0,48.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2022,18,Goiás,39,9,12,15,34.0,52.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2022,14,Athletico Paranaense,41,11,7,19,43.0,45.0,1924,Arena da Baixada,Curitiba,Parana,South
+2022,5,Botafogo,38,23,12,8,54.0,39.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2022,10,Cruzeiro,38,10,9,13,43.0,40.0,1942,Mineirao,Belo Horizonte,Minas Gerais,Southeast
+2022,3,Palmeiras,35,20,8,5,59.0,33.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2023,6,Red Bull Bragantino,40,16,11,11,49.0,35.0,1928,Nabi Abi Chedid,Braganca Paulista,Sao Paulo,Southeast
+2023,6,São Paulo,35,19,7,12,53.0,40.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2023,15,Vasco,38,13,8,15,36.0,54.0,1898,Sao Januario,Rio de Janeiro,Rio de Janeiro,Southeast
+2023,20,Cuiabá,37,4,9,22,27.0,48.0,2001,Arena Pantanal,Cuiaba,Mato Grosso,Central
+2023,19,Coritiba,34,7,8,22,41.0,71.0,1909,Major Antonio Couto Pereira,Curitiba,Parana,South
+2023,20,Juventude,38,3,14,19,33.0,66.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2023,3,Fluminense,37,20,4,10,63.0,42.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2023,8,Athletico Paranaense,38,13,13,14,51.0,41.0,1924,Arena da Baixada,Curitiba,Parana,South
+2023,8,Bahia,37,17,6,16,51.0,44.0,1931,Arena Fonte Nova,Salvador,Bahia,Northeast
+2023,9,Athletico Paranaense,38,12,8,16,40.0,35.0,1924,Arena da Baixada,Curitiba,Parana,South
+2023,3,Palmeiras,37,19,5,14,54.0,43.0,1914,Allianz Parque,Sao Paulo,Sao Paulo,Southeast
+2023,10,Fortaleza,35,19,5,13,43.0,42.0,1918,Castelao,Fortaleza,Ceara,Northeast
+2023,8,América Mineiro,39,11,12,9,43.0,38.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2024,14,Red Bull Bragantino,34,10,7,16,48.0,61.0,1928,Nabi Abi Chedid,Braganca Paulista,Sao Paulo,Southeast
+2024,12,Cuiabá,42,14,10,18,42.0,39.0,2001,Arena Pantanal,Cuiaba,Mato Grosso,Central
+2024,4,Flamengo,40,20,12,10,57.0,40.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2024,1,Botafogo,39,25,10,0,59.0,24.0,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
+2024,16,Red Bull Bragantino,35,10,16,18,42.0,47.0,1928,Nabi Abi Chedid,Braganca Paulista,Sao Paulo,Southeast
+2024,7,Fluminense,35,16,6,13,40.0,38.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2024,18,Criciúma,39,10,9,18,43.0,62.0,1947,Majestoso,Criciuma,Santa Catarina,South
+2024,11,São Paulo,38,11,6,7,38.0,39.0,1930,Estadio do Morumbi,Sao Paulo,Sao Paulo,Southeast
+2024,12,Atlético Mineiro,38,11,14,13,48.0,52.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2024,7,Fluminense,37,16,1,16,47.0,47.0,1902,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Southeast
+2024,14,Grêmio,36,11,13,14,43.0,47.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2024,2,Grêmio,37,21,6,11,64.0,55.0,1903,Arena do Gremio,Porto Alegre,Rio Grande do Sul,South
+2024,3,Flamengo,35,20,10,5,57.0,43.0,1895,Maracana,Rio de Janeiro,Rio de Janeiro,Southeast
+2024,7,Atlético Mineiro,39,14,13,12,44.0,37.0,1908,Arena MRV,Belo Horizonte,Minas Gerais,Southeast
+2024,5,Internacional,34,14,12,10,52.0,33.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2025,13,Goiás,37,11,12,11,41.0,50.0,1943,Estadio Serra Dourada,Goiania,Goias,Central
+2025,7,Corinthians,34,16,10,10,52.0,44.0,1910,Neo Quimica Arena,Sao Paulo,Sao Paulo,Southeast
+2025,12,Internacional,40,7,13,15,44.0,44.0,1909,Beira Rio,Porto Alegre,Rio Grande do Sul,South
+2025,15,Juventude,36,10,5,11,46.0,55.0,1913,Alfredo Jaconi,Caxias do Sul,Rio Grande do Sul,South
+2026,10,América Mineiro,37,13,4,20,41.0,38.0,1912,Arena Independencia,Belo Horizonte,Minas Gerais,Southeast
+2027,13,Botafogo,34,16,13,15,39.44518379922784,41.0004040627316,1904,Engenhao,Botafogo,Rio de Janeiro,Southeast
